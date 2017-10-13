@@ -12,6 +12,7 @@
     "localstorage-fs": "~0.1.0",
     "optimist": "~0.6.1",
     "path-extra": "~0.3.0",
+    "system-sleep": "^1.3.6",
     "telehash-http": "^0.1.0",
     "telehash-tcp4": "^0.0.8",
     "telehash-udp4": "^0.0.14",
